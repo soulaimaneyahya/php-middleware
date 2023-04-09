@@ -1,0 +1,17 @@
+{
+    "name": "soulaimaneyh/middleware",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "soulaimane yahya",
+            "email": "soulaimaneyh07@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper": "^6.2"
+    }
+}
